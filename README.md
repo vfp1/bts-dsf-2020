@@ -1,5 +1,5 @@
 # bts-dsf-2020
-Repository for BTS 
+Repository for BTS Data Science Foundations Course 2020
 
 ## Launch it with Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vfp1/bts-dsf-2020/main)
