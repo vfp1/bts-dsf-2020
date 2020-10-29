@@ -1,0 +1,6 @@
+# Coffee wining solutions by students
+
+
+Student | Exercise | Solution | Coffee count
+--- | --- | --- | --- 
+[Khaldoun](https://github.com/KhaldounN) | Groupby | [Link](https://github.com/KhaldounN/bts-dsf-2020/blob/main/Copy_of_04_Pandas_%26_SQLite_recap_through_exercises_FIRST_EXERCISES_SOLUTION.ipynb ) | :coffee:
