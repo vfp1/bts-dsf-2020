@@ -21,6 +21,9 @@ Final assignment | Instructions for final assignment. Start as early as you can.
 * [Pandas Cheatsheet](https://www.w3resource.com/python-exercises/pandas/index.php)
 * [Pandas Exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 
+### NumPy
+* Amazing visualizations explaining [NumPy](https://jalammar.github.io/visual-numpy/)
+
 ### Tidy Data (by [Markham's](https://github.com/justmarkham/DAT8))
 * [Good Data Management Practices for Data Analysis](https://www.prometheusresearch.com/good-data-management-practices-for-data-analysis-tidy-data-part-2/) briefly summarizes the principles of "tidy data".
 * [Hadley Wickham's paper](http://www.jstatsoft.org/article/view/v059i10) explains tidy data in detail and includes lots of good examples.
