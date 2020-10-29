@@ -11,7 +11,7 @@ Session | Description | Colab
 Session 1 | Introduction to Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_1/01_Pandas_Introduction_Common_Data_Formats.ipynb)
 Session 2 | More Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
 Session 3 | SQL, SQLite and Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
-Session 4 | Pandas and SQLite exercises in depth. |
+Session 4 | Pandas and SQLite exercises in depth. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_4/04_Pandas_&_SQLite_recap_through_exercises.ipynb)
 Final assignment | Instructions for final assignment. Start as early as you can. |
 
 
