@@ -6,6 +6,15 @@ Repository for BTS
 
 
 ## Session 1
-Introduction to Pandas. You can trigger the notebook in Colab here: https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_1/01_Pandas_Introduction_Common_Data_Formats.ipynb
+Introduction to Pandas. You can trigger the notebook in Colab here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_1/01_Pandas_Introduction_Common_Data_Formats.ipynb)"]
 
+## Session 2
+
+
+
+
+
+
+## Resources
+* [Jake Vanderplas](https://github.com/jakevdp)
 
