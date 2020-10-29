@@ -4,18 +4,15 @@ Repository for BTS
 ## Launch it with Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vfp1/bts-dsf-2020/main)
 
+# Sessions
 
-## Session 1
-Introduction to Pandas. You can trigger the notebook in Colab here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_1/01_Pandas_Introduction_Common_Data_Formats.ipynb)
-
-## Session 2
-More Pandas. You can trigger the notebook in Colab here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
-
-## Session 3
-SQL, SQLite and Pandas. You can trigger the notebook in Colab here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
-
-## Session 4
-Pandas and SQLite exercises in depth. You can trigger the notebook in Colab here:
+Session | Description | Colab
+--- | --- | ---
+Session 1 | Introduction to Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_1/01_Pandas_Introduction_Common_Data_Formats.ipynb)
+Session 2 | More Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
+Session 3 | SQL, SQLite and Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
+Session 4 | Pandas and SQLite exercises in depth. |
+Final assignment | Instructions for final assignment. Start as early as you can. |
 
 
 ## Additional Resources (by [Markham's](https://github.com/justmarkham/DAT8))
