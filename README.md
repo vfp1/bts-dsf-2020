@@ -48,4 +48,7 @@ Final assignment | Instructions for final assignment. Start as early as you can.
 # This course is inspired and uses resources from:
 * [Jake Vanderplas](https://github.com/jakevdp)
 * [Markham's Course](https://github.com/justmarkham/DAT8/)
+* [SciPy](https://scipy.org)
+* [Scipy Lectures](https://scipy-lectures.org)
+* [NumPy](https://numpy.org)
 
