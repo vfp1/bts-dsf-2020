@@ -15,6 +15,7 @@ Session 2 | More Pandas. | [![Open in Colab](https://colab.research.google.com/a
 Session 3 | SQL, SQLite and Pandas. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_2/02_Pandas_continued.ipynb)
 Session 4 | Pandas and SQLite exercises in depth. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_4/04_Pandas_&_SQLite_recap_through_exercises.ipynb)
 Session 5 | Image array manipulation: Numpy and Scipy | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_5/05_Array_image_manipulation.ipynb)
+Session 6 | Image array manipulation: Numpy and Scipy | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Session_6/06_Image_processing.ipynb)
 Final assignment | Instructions for final assignment. Start as early as you can. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vfp1/bts-dsf-2020/blob/main/Final_project/DSF_FINAL_PROJECT.ipynb)
 
 
