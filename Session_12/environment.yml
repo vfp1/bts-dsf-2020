@@ -1,0 +1,11 @@
+name: deploy_bts
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pandas
+  - scikit-learn>=0.20
+  - numpy
+  - pip
+  - pip:
+      - streamlit
