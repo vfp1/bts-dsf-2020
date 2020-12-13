@@ -1,0 +1,2 @@
+release: cd Session_12 && python train.py
+web: sh setup.sh && streamlit run run.py
