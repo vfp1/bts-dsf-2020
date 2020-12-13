@@ -19,15 +19,15 @@ Testing that Streamlit works
 `    
 
 ### Steps to deploy
-Create account in Heroku
-sudo snap install --classic heroku
+1. Create account in Heroku
+2. sudo snap install --classic heroku
 heroku login
 heroku create bikes-bts or whatever is free
 (Make sure your git repo is ready)
 Make sure that you have setup.sh (ask me for it)
 heroku git:remote -a yourapp
-git push heroku master (from the root path of git repo)
-heroku buildpacks:add --index 1 heroku-community/apt (you need this for sudo apt shit)
 heroku buildpacks:set heroku/python
+git subtree push --prefix Session_12 heroku main
+
 git push heroku master
 heroku logs (to check outputs)
