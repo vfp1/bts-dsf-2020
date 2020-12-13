@@ -22,7 +22,7 @@ Testing that Streamlit works
 1. Create account in Heroku
 2. sudo snap install --classic heroku
 heroku login
-heroku create bikes-bts or whatever is free
+heroku create houses-bts or whatever is free
 (Make sure your git repo is ready)
 Make sure that you have setup.sh (ask me for it)
 heroku git:remote -a yourapp

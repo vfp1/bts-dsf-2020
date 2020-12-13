@@ -1,2 +1,1 @@
-release: python train.py
-web: sh setup.sh && streamlit run run.py
+web: sh setup.sh && python train.py && streamlit run run.py
