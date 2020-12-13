@@ -28,5 +28,6 @@ Make sure that you have setup.sh (ask me for it)
 heroku git:remote -a yourapp
 git push heroku master (from the root path of git repo)
 heroku buildpacks:add --index 1 heroku-community/apt (you need this for sudo apt shit)
+heroku buildpacks:set heroku/python
 git push heroku master
 heroku logs (to check outputs)
