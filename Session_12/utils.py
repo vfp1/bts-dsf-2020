@@ -1,4 +1,5 @@
 import os
+import pathlib
 import tarfile
 import urllib.request
 import pandas as pd
@@ -20,7 +21,7 @@ class DataFetch(object):
 
     def __init__(self):
         self.DOWNLOAD_ROOT = "https://raw.githubusercontent.com/vfp1/bts-dsf-2020/main/"
-        self.HOUSING_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "housing")
+        self.HOUSING_PATH = os.path.join(str(pathlib.Path().absolute()), "housing")
         self.HOUSING_URL = self.DOWNLOAD_ROOT + "data/housing.tgz"
 
     def fetch_housing_data(self):
@@ -124,7 +125,7 @@ class HouseETL(object):
         housing_prepared_fulltest = full_pipeline_fulltest.fit_transform(housing)
 
         # Save the scaler
-        scaler_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scaler")
+        scaler_path = os.path.join(pathlib.Path().absolute(), "scaler")
         scaler_file = scaler_path + "/scaled_features.pkl"
 
         if not os.path.isdir(scaler_path):
@@ -146,7 +147,7 @@ class HouseTrain(object):
         forest_reg.fit(self.housing_prepared, self.housing_labels)
 
         # Save the model
-        model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model")
+        model_path = os.path.join(str(pathlib.Path().absolute()), "model")
         model_file = model_path + "/forest_reg.pkl"
 
         if not os.path.isdir(model_path):
@@ -157,9 +158,9 @@ class HouseTrain(object):
 class HousePredict(object):
 
     def __init__(self):
-        scaler_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scaler")
+        scaler_path = os.path.join(str(pathlib.Path().absolute()), "scaler")
         scaler_file = scaler_path + "/scaled_features.pkl"
-        model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model")
+        model_path = os.path.join(str(pathlib.Path().absolute()), "model")
         model_file = model_path + "/forest_reg.pkl"
 
         self.scaler = load(open(scaler_file, 'rb'))

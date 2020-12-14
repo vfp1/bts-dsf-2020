@@ -31,3 +31,4 @@ git subtree push --prefix Session_12 heroku main
 
 git push heroku master
 heroku logs (to check outputs)
+heroku run bash -a APPNAME (to debug app within apps folder in local)
