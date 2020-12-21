@@ -2,8 +2,10 @@ import streamlit as st
 from utils import HousePredict
 
 
+
 if __name__ == "__main__":
-    st.title('Housing price predictor')
+
+    st.title('Housing price whatafuck')
     st.write('An app to know how much a house in California would cost')
 
     st.sidebar.header('Input variables from model for house prediction')

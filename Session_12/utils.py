@@ -154,7 +154,6 @@ class HouseTrain(object):
             os.makedirs(model_path)
         dump(forest_reg, open(model_file, 'wb'))
 
-
 class HousePredict(object):
 
     def __init__(self):
