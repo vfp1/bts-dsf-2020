@@ -1,0 +1,1 @@
+web: sh setup.sh && python train.py && streamlit run run.py
